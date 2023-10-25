@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 180,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "bats:iron_bat"
+  },
+  "result": "minecraft:iron_nugget"
+}
