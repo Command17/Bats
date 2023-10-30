@@ -20,6 +20,12 @@ public class ModForgeEvents {
 
         if (event.getSlotType() == EquipmentSlot.MAINHAND) {
             if (item instanceof BatItem batItem) {
+                event.addModifier(Attributes.ATTACK_DAMAGE, new AttributeModifier(BatItem.BASE_DAMAGE_UUID,
+                        "Weapon modifier", batItem.getDamage(), AttributeModifier.Operation.ADDITION));
+
+                event.addModifier(Attributes.ATTACK_SPEED, new AttributeModifier(BatItem.BASE_SPEED_UUID,
+                        "Weapon modifier", batItem.getSpeed(), AttributeModifier.Operation.ADDITION));
+
                 event.addModifier(Attributes.ATTACK_KNOCKBACK, new AttributeModifier(BatItem.BASE_KNOCKBACK_UUID, // Random UUID
                         "Weapon modifier", batItem.getKnockback(), AttributeModifier.Operation.ADDITION));
             }

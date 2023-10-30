@@ -1,16 +1,16 @@
-[25Okt.2023 11:33:23.723] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\comma\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, bats, --all, --output, C:\Users\comma\Documents\Mods\Bats\src\generated\resources, --existing, C:\Users\comma\Documents\Mods\Bats\src\main\resources, --mixin.config, bats.mixins.json]
-[25Okt.2023 11:33:23.728] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Amazon.com Inc.; OS Windows 11 arch amd64 version 10.0
-[25Okt.2023 11:33:23.832] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
-[25Okt.2023 11:33:23.867] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/comma/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
-[25Okt.2023 11:33:24.095] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.0\7f9181f85acc66547685a72020713fc8cbde98\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[25Okt.2023 11:33:24.097] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.0\7872f5205685fdd26fae39b1be79b0e60ca5b7bd\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[25Okt.2023 11:33:24.100] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.0\d501d161cabed08b3c139a2c6217b02a39f3c3e9\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[25Okt.2023 11:33:24.101] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.0\ffd3c6debac0a388c9e33ac43c9f5eafb91cb466\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[25Okt.2023 11:33:24.152] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[25Okt.2023 11:33:25.149] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\comma\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, bats, --all, --output, C:\Users\comma\Documents\Mods\Bats\src\generated\resources, --existing, C:\Users\comma\Documents\Mods\Bats\src\main\resources]
-[25Okt.2023 11:33:25.228] [main/WARN] [mixin/]: Reference map 'Bats.refmap.json' for bats.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Okt.2023 11:33:25.500] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [bats]
-[25Okt.2023 11:33:26.080] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function flowing_fluid_block
+[30Okt.2023 15:37:26.368] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\comma\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, bats, --all, --output, C:\Users\comma\Documents\Mods\Bats\src\generated\resources, --existing, C:\Users\comma\Documents\Mods\Bats\src\main\resources, --mixin.config, bats.mixins.json]
+[30Okt.2023 15:37:26.372] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Amazon.com Inc.; OS Windows 11 arch amd64 version 10.0
+[30Okt.2023 15:37:26.485] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[30Okt.2023 15:37:26.521] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/comma/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[30Okt.2023 15:37:26.744] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.0\7f9181f85acc66547685a72020713fc8cbde98\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[30Okt.2023 15:37:26.747] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.0\7872f5205685fdd26fae39b1be79b0e60ca5b7bd\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[30Okt.2023 15:37:26.748] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.0\d501d161cabed08b3c139a2c6217b02a39f3c3e9\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[30Okt.2023 15:37:26.751] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\comma\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.0\ffd3c6debac0a388c9e33ac43c9f5eafb91cb466\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[30Okt.2023 15:37:26.793] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[30Okt.2023 15:37:27.834] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\comma\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, bats, --all, --output, C:\Users\comma\Documents\Mods\Bats\src\generated\resources, --existing, C:\Users\comma\Documents\Mods\Bats\src\main\resources]
+[30Okt.2023 15:37:27.912] [main/WARN] [mixin/]: Reference map 'Bats.refmap.json' for bats.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Okt.2023 15:37:28.186] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [bats]
+[30Okt.2023 15:37:28.790] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function flowing_fluid_block
 java.lang.IllegalStateException: No field with name f_54689_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$15$1602A$\^eval\_.initializeCoreMod#transformer-3(<eval>:42) ~[?:?]
@@ -52,7 +52,7 @@ java.lang.IllegalStateException: No field with name f_54689_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:26.114] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function stairsblock
+[30Okt.2023 15:37:28.831] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function stairsblock
 java.lang.IllegalStateException: No field with name f_56858_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$16$2336A$\^eval\_.initializeCoreMod#transformer-5(<eval>:62) ~[?:?]
@@ -94,7 +94,7 @@ java.lang.IllegalStateException: No field with name f_56858_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:26.174] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function flowerpotblock
+[30Okt.2023 15:37:28.900] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function flowerpotblock
 java.lang.IllegalStateException: No field with name f_53525_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$17$2821A$\^eval\_.initializeCoreMod#transformer-6(<eval>:73) ~[?:?]
@@ -136,7 +136,7 @@ java.lang.IllegalStateException: No field with name f_53525_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:26.661] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function itemstack
+[30Okt.2023 15:37:29.373] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function itemstack
 java.lang.IllegalStateException: No field with name f_41589_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$18$3210A$\^eval\_.initializeCoreMod#transformer-7(<eval>:83) ~[?:?]
@@ -184,7 +184,7 @@ java.lang.IllegalStateException: No field with name f_41589_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:27.057] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function bucketitem
+[30Okt.2023 15:37:29.832] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function bucketitem
 java.lang.IllegalStateException: No field with name f_40687_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$19$1965A$\^eval\_.initializeCoreMod#transformer-4(<eval>:52) ~[?:?]
@@ -226,7 +226,7 @@ java.lang.IllegalStateException: No field with name f_40687_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:27.947] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function potion
+[30Okt.2023 15:37:30.833] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function potion
 java.lang.IllegalStateException: No field with name f_19502_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$20$1194A$\^eval\_.initializeCoreMod#transformer-2(<eval>:32) ~[?:?]
@@ -270,7 +270,7 @@ java.lang.IllegalStateException: No field with name f_19502_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:28.303] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function structure
+[30Okt.2023 15:37:31.222] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function structure
 java.lang.IllegalStateException: No field with name f_226555_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$21$805A$\^eval\_.initializeCoreMod#transformer-1(<eval>:22) ~[?:?]
@@ -331,7 +331,7 @@ java.lang.IllegalStateException: No field with name f_226555_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:28.441] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[30Okt.2023 15:37:31.339] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: No field with name f_47437_ found
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:257) ~[coremods-5.0.1.jar%23109!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$22$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -379,16 +379,21 @@ java.lang.IllegalStateException: No field with name f_47437_ found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%23116!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Okt.2023 11:33:28.696] [modloading-worker-0/INFO] [com.github.command17.bats.Bats/]: Initializing...
-[25Okt.2023 11:33:28.710] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[25Okt.2023 11:33:28.710] [modloading-worker-0/INFO] [com.github.command17.bats.Bats/]: Registered Items.
-[25Okt.2023 11:33:28.711] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
-[25Okt.2023 11:33:28.713] [modloading-worker-0/INFO] [com.github.command17.bats.Bats/]: Initialized.
-[25Okt.2023 11:33:29.068] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/comma/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[25Okt.2023 11:33:29.068] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/comma/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[25Okt.2023 11:33:29.254] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
-[25Okt.2023 11:33:29.318] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 62 ms
-[25Okt.2023 11:33:29.318] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: bats
-[25Okt.2023 11:33:29.341] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: bats finished after 23 ms
-[25Okt.2023 11:33:29.341] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 87 ms
-[25Okt.2023 11:33:29.348] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 41, old count: 39, new count: 42, removed stale: 0, written: 2
+[30Okt.2023 15:37:31.592] [modloading-worker-0/INFO] [com.github.command17.bats.Bats/]: Initializing...
+[30Okt.2023 15:37:31.610] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[30Okt.2023 15:37:31.611] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[30Okt.2023 15:37:31.612] [modloading-worker-0/INFO] [com.github.command17.bats.Bats/]: Registered Items.
+[30Okt.2023 15:37:31.614] [modloading-worker-0/INFO] [com.github.command17.bats.Bats/]: Registered Items.
+[30Okt.2023 15:37:31.617] [modloading-worker-0/INFO] [com.github.command17.bats.Bats/]: Initialized.
+[30Okt.2023 15:37:31.987] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/comma/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[30Okt.2023 15:37:31.988] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/comma/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[30Okt.2023 15:37:32.178] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[30Okt.2023 15:37:32.228] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 48 ms
+[30Okt.2023 15:37:32.228] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: bats
+[30Okt.2023 15:37:32.242] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: bats finished after 14 ms
+[30Okt.2023 15:37:32.242] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id bats
+[30Okt.2023 15:37:32.268] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id bats finished after 26 ms
+[30Okt.2023 15:37:32.268] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id bats
+[30Okt.2023 15:37:32.277] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id bats finished after 9 ms
+[30Okt.2023 15:37:32.278] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 100 ms
+[30Okt.2023 15:37:32.287] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 48, old count: 45, new count: 49, removed stale: 0, written: 4

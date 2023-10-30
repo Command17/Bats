@@ -1,8 +1,9 @@
 package com.github.command17.bats;
 
 import com.github.command17.bats.item.ModItems;
+import com.github.command17.bats.item.tab.ModCreativeModeTabs;
+import com.github.command17.bats.sound.ModSoundEvents;
 import com.mojang.logging.LogUtils;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,6 +27,8 @@ public class Bats {
         eventBus.addListener(this::commonSetup);
 
         ModItems.register(eventBus);
+        ModSoundEvents.register(eventBus);
+        ModCreativeModeTabs.register(eventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
 
@@ -35,7 +38,7 @@ public class Bats {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTabKey() == CreativeModeTabs.COMBAT) {
+        if (event.getTabKey() == ModCreativeModeTabs.BATS_TAB.getKey()) {
             event.accept(ModItems.WOODEN_BAT);
             event.accept(ModItems.STONE_BAT);
             event.accept(ModItems.IRON_BAT);
@@ -47,6 +50,8 @@ public class Bats {
             event.accept(ModItems.SNOW_BAT);
             event.accept(ModItems.SOFT_BAT);
             event.accept(ModItems.GLOWSTONE_BAT);
+            event.accept(ModItems.MAGMA_BAT);
+            event.accept(ModItems.LAUNCHING_BAT);
         }
     }
 

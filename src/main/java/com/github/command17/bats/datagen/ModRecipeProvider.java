@@ -28,6 +28,7 @@ public class ModRecipeProvider extends RecipeProvider {
         batRecipe(ModItems.TNT_BAT.get(), Items.TNT).save(recipe);
         batRecipe(ModItems.SNOW_BAT.get(), Items.SNOW_BLOCK).save(recipe);
         batRecipe(ModItems.GLOWSTONE_BAT.get(), Items.GLOWSTONE).save(recipe);
+        batRecipe(ModItems.MAGMA_BAT.get(), Items.MAGMA_BLOCK).save(recipe);
 
         netheriteSmithing(recipe, ModItems.DIAMOND_BAT.get(), RecipeCategory.COMBAT, ModItems.NETHERITE_BAT.get());
 
@@ -50,6 +51,10 @@ public class ModRecipeProvider extends RecipeProvider {
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.SOFT_BAT.get())
                 .requires(Items.WHITE_WOOL).requires(ModItems.WOODEN_BAT.get())
                 .unlockedBy("has_bat", has(ModItems.WOODEN_BAT.get())).save(recipe);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.LAUNCHING_BAT.get())
+                .requires(Items.GUNPOWDER).requires(Items.GUNPOWDER).requires(ModItems.SOFT_BAT.get())
+                .unlockedBy("has_bat", has(ModItems.SOFT_BAT.get())).save(recipe);
     }
 
     private ShapedRecipeBuilder batRecipe(Item item, TagKey<Item> material) {

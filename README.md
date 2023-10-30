@@ -5,7 +5,7 @@
 
 - Ever wanted to push your friend of a cliff without them escaping?
 - Ever wanted to just get the creeper away from your house?
-- ~Ever wanted to just launch the cow infront of you to space?~
+- ~~Ever wanted to just launch the cow in front of you to space?~~
 
 **Well now you can!**
 
@@ -13,7 +13,7 @@
 
 The bats work like a sword but have way more knockback than a sword.
 
-**Three** of the total **11** bats also have special abilities which you can
+**Five** of the total **13** bats also have special abilities which you can
 find on the [wiki](https://github.com/Command17/Bats/wiki).
 
 ## Where can I find more information about the bats?

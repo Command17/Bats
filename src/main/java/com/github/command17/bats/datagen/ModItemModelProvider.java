@@ -29,6 +29,8 @@ public class ModItemModelProvider extends ItemModelProvider {
         handheldItem(ModItems.SNOW_BAT);
         handheldItem(ModItems.SOFT_BAT);
         handheldItem(ModItems.GLOWSTONE_BAT);
+        handheldItem(ModItems.MAGMA_BAT);
+        handheldItem(ModItems.LAUNCHING_BAT);
     }
 
     private ItemModelBuilder handheldItem(RegistryObject<Item> item) {

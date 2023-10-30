@@ -1,0 +1,22 @@
+{
+  "wooden_bat_hit": {
+    "subtitles": "sounds.bats.bat_hit",
+    "sounds": [
+      "bats:wooden_bat_hit"
+    ]
+  },
+
+  "stone_bat_hit": {
+    "subtitles": "sounds.bats.bat_hit",
+    "sounds": [
+      "bats:stone_bat_hit"
+    ]
+  },
+
+  "metal_bat_hit": {
+    "subtitles": "sounds.bats.bat_hit",
+    "sounds": [
+      "bats:metal_bat_hit"
+    ]
+  }
+}

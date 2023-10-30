@@ -1,0 +1,17 @@
+{
+  "values": [
+    "bats:wooden_bat",
+    "bats:stone_bat",
+    "bats:iron_bat",
+    "bats:gold_bat",
+    "bats:diamond_bat",
+    "bats:netherite_bat",
+    "bats:obsidian_bat",
+    "bats:tnt_bat",
+    "bats:snow_bat",
+    "bats:soft_bat",
+    "bats:glowstone_bat",
+    "bats:magma_bat",
+    "bats:launching_bat"
+  ]
+}

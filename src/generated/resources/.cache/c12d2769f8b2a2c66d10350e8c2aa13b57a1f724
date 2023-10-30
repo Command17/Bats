@@ -1,8 +1,10 @@
-// 1.20.1	2023-10-25T11:31:22.8459644	Item Models: bats
+// 1.20.1	2023-10-30T15:37:32.2819928	Item Models: bats
 7ea504dd8b1cd9020cd08a53d87a468e21982128 assets/bats/models/item/diamond_bat.json
 2eb97600d7709e83d62273a69177d9b7a0bff23f assets/bats/models/item/glowstone_bat.json
 bb3f12a3f5ed6a5dd1e5018aa63e37ab6847135b assets/bats/models/item/gold_bat.json
 6c7882616171b4f562a38570f1a2bf85cdae2027 assets/bats/models/item/iron_bat.json
+0b97cc1c0f0c48e0055f155ae536d607d75f2f1a assets/bats/models/item/launching_bat.json
+758694d576cc8b5f7c4fe4857c953d9ef3edcf5d assets/bats/models/item/magma_bat.json
 2077173967b3a83543c9dd8d87f76adad54ab635 assets/bats/models/item/netherite_bat.json
 88174a6497b92a206653a6e21574dabe1c68677f assets/bats/models/item/obsidian_bat.json
 cfeda39e6ccbc9b433830e27e77ece5876a93746 assets/bats/models/item/snow_bat.json

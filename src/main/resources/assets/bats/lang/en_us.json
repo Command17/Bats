@@ -9,5 +9,11 @@
   "item.bats.tnt_bat": "TNT Bat",
   "item.bats.snow_bat": "Snow Bat",
   "item.bats.soft_bat": "Soft Bat",
-  "item.bats.glowstone_bat": "Glowstone Bat"
+  "item.bats.glowstone_bat": "Glowstone Bat",
+  "item.bats.magma_bat": "Magma Bat",
+  "item.bats.launching_bat": "Launching Bat",
+
+  "itemGroup.bats.bats": "Bats",
+
+  "sounds.bats.bat_hit": "Bat Hit"
 }

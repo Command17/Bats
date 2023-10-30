@@ -9,7 +9,9 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 
 public class ModTags {
-    public static class TagItems {
+    public static class ItemTag {
+        public static final TagKey<Item> BAT = tag("bat");
+
         private static TagKey<Item> tag(String name) {
             return ItemTags.create(new ResourceLocation(Bats.MOD_ID, name));
         }
@@ -19,10 +21,11 @@ public class ModTags {
         }
     }
 
-    public static class TagBlocks {
-        public static final TagKey<Block> NEEDS_TNT_TOOL = tag("needs_tnt_tool");
-        public static final TagKey<Block> NEEDS_SNOW_TOOL = tag("needs_snow_tool");
-        public static final TagKey<Block> NEEDS_GLOWSTONE_TOOL = tag("needs_glowstone_tool");
+    public static class BlockTag {
+        public static final TagKey<Block> NEEDS_MAGMA_TOOL = forgeTag("needs_obsidian_tool");
+        public static final TagKey<Block> NEEDS_TNT_TOOL = forgeTag("needs_tnt_tool");
+        public static final TagKey<Block> NEEDS_SNOW_TOOL = forgeTag("needs_snow_tool");
+        public static final TagKey<Block> NEEDS_GLOWSTONE_TOOL = forgeTag("needs_glowstone_tool");
         public static final TagKey<Block> NEEDS_OBSIDIAN_TOOL = forgeTag("needs_obsidian_tool");
 
         private static TagKey<Block> tag(String name) {

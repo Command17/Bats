@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "pattern": [
+    "  X",
+    " X ",
+    "S  "
+  ],
+  "result": {
+    "item": "bats:magma_bat"
+  },
+  "show_notification": true
+}

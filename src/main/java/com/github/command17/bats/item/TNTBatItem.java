@@ -1,5 +1,6 @@
 package com.github.command17.bats.item;
 
+import net.minecraft.sounds.SoundEvent;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Tier;
@@ -8,8 +9,8 @@ import net.minecraft.world.level.Level;
 import javax.annotation.ParametersAreNonnullByDefault;
 
 public class TNTBatItem extends BatItem {
-    public TNTBatItem(Tier tier, int damage, float speed, float knockback, Properties properties) {
-        super(tier, damage, speed, knockback, properties);
+    public TNTBatItem(Tier tier, int damage, float speed, float knockback, SoundEvent hitSound, Properties properties) {
+        super(tier, damage, speed, knockback, hitSound, properties);
     }
 
     @ParametersAreNonnullByDefault

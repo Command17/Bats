@@ -9,5 +9,11 @@
   "item.bats.tnt_bat": "TNT Baseballschläger",
   "item.bats.snow_bat": "Schnee Baseballschläger",
   "item.bats.soft_bat": "Weicher Baseballschläger",
-  "item.bats.glowstone_bat": "Leuchtstein Baseballschläger"
+  "item.bats.glowstone_bat": "Leuchtstein Baseballschläger",
+  "item.bats.magma_bat": "Magma Baseballschläger",
+  "item.bats.launching_bat": "Schießender Baseballschläger",
+
+  "itemGroup.bats.bats": "Baseballschläger",
+
+  "sounds.bats.bat_hit": "Baseballschläger trifft"
 }
