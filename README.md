@@ -1,7 +1,6 @@
 # (Baseball) Bats!
 
 [![curseforge](https://img.shields.io/badge/available_on_curseforge-black?style=flat-sqaure&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/baseball-bats)
-[![modrinth](https://img.shields.io/badge/available_on_modrinth-black?style=flat-sqaure&logo=modrinth)](https://modrinth.com/mod/bats)
 
 - Ever wanted to push your friend of a cliff without them escaping?
 - Ever wanted to just get the creeper away from your house?
