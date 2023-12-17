@@ -10,8 +10,6 @@ import net.minecraftforge.event.ItemAttributeModifierEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 
-import java.util.UUID;
-
 @Mod.EventBusSubscriber(modid = Bats.MOD_ID, bus = Mod.EventBusSubscriber.Bus.FORGE)
 public class ModForgeEvents {
     @SubscribeEvent
