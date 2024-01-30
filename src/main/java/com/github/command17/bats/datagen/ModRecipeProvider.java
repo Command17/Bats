@@ -10,13 +10,15 @@ import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
 import org.jetbrains.annotations.NotNull;
 
+import java.util.function.Consumer;
+
 public class ModRecipeProvider extends RecipeProvider {
     public ModRecipeProvider(PackOutput output) {
         super(output);
     }
 
     @Override
-    protected void buildRecipes(@NotNull RecipeOutput output) {
+    protected void buildRecipes(@NotNull Consumer<FinishedRecipe> output) {
         batRecipe(ModItems.WOODEN_BAT.get(), ItemTags.PLANKS).save(output);
         batRecipe(ModItems.STONE_BAT.get(), ItemTags.STONE_TOOL_MATERIALS).save(output);
         batRecipe(ModItems.IRON_BAT.get(), Items.IRON_INGOT).save(output);
