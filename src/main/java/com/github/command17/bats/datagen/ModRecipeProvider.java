@@ -29,6 +29,7 @@ public class ModRecipeProvider extends RecipeProvider {
         batRecipe(ModItems.SNOW_BAT.get(), Items.SNOW_BLOCK).save(output);
         batRecipe(ModItems.GLOWSTONE_BAT.get(), Items.GLOWSTONE).save(output);
         batRecipe(ModItems.MAGMA_BAT.get(), Items.MAGMA_BLOCK).save(output);
+        batRecipe(ModItems.COPPER_BAT.get(), Items.COPPER_INGOT).save(output);
 
         netheriteSmithing(output, ModItems.DIAMOND_BAT.get(), RecipeCategory.COMBAT, ModItems.NETHERITE_BAT.get());
 

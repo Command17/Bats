@@ -27,6 +27,8 @@ public class ModTags {
         public static final TagKey<Block> NEEDS_SNOW_TOOL = forgeTag("needs_snow_tool");
         public static final TagKey<Block> NEEDS_GLOWSTONE_TOOL = forgeTag("needs_glowstone_tool");
         public static final TagKey<Block> NEEDS_OBSIDIAN_TOOL = forgeTag("needs_obsidian_tool");
+        public static final TagKey<Block> NEEDS_COPPER_TOOL = forgeTag("needs_copper_tool");
+        public static final TagKey<Block> NEEDS_AIR_TOOL = forgeTag("needs_air_tool");
 
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(Bats.MOD_ID, name));

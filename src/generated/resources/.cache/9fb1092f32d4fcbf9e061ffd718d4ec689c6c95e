@@ -1,4 +1,5 @@
-// 1.20.1	2023-10-30T15:37:32.2809929	Recipes
+// 1.20.1	2024-02-04T12:55:05.0132421	Recipes
+ac9785981977afca4963f9935d81b062c1acf80d data/bats/advancements/recipes/combat/copper_bat.json
 61c4476aefa837bf0b45bd97defec41d2702bfab data/bats/advancements/recipes/combat/diamond_bat.json
 29ace0280b0ecaddf8acc90a1241ee04d33209cc data/bats/advancements/recipes/combat/glowstone_bat.json
 d25805e9d7eb3cc30ecfed8c324e73a48af02c10 data/bats/advancements/recipes/combat/gold_bat.json
@@ -11,6 +12,7 @@ a81d148b6b6a166a7946069eec3ce5052408a63d data/bats/advancements/recipes/combat/t
 c00477a8864e041f955f97b83067fa3a63e67b38 data/bats/advancements/recipes/combat/wooden_bat.json
 ad9ca5d5cc5a5b7a3fa7f0ca9733c1f75e062d97 data/bats/advancements/recipes/misc/launching_bat.json
 383578392583c10dc20e15d68c546b673a3be70d data/bats/advancements/recipes/misc/soft_bat.json
+7324f1d7c9c1daa3b483f6cf74d45fafdbe93efc data/bats/recipes/copper_bat.json
 3f552e97a603bb8a698b265b2f8c6e59f0a1defb data/bats/recipes/diamond_bat.json
 c98133ca18bc3372c7148d0c58c9e0ee11556c95 data/bats/recipes/glowstone_bat.json
 780443a2a6922cdf1699633dd862dc77199c2520 data/bats/recipes/gold_bat.json

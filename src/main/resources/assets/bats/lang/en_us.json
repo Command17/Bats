@@ -1,6 +1,7 @@
 {
   "item.bats.wooden_bat": "Wooden Bat",
   "item.bats.stone_bat": "Stone Bat",
+  "item.bats.copper_bat": "Copper Bat",
   "item.bats.iron_bat": "Iron Bat",
   "item.bats.gold_bat": "Gold Bat",
   "item.bats.diamond_bat": "Diamond Bat",
@@ -12,8 +13,11 @@
   "item.bats.glowstone_bat": "Glowstone Bat",
   "item.bats.magma_bat": "Magma Bat",
   "item.bats.launching_bat": "Launching Bat",
+  "item.bats.cloud_bat": "Cloud Bat",
 
   "itemGroup.bats.bats": "Bats",
 
-  "sounds.bats.bat_hit": "Bat Hit"
+  "sounds.bats.bat_hit": "Bat Hit",
+
+  "tooltip.bats.copper_bat_charge": "Charge: "
 }

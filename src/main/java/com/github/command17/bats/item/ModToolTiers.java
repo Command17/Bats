@@ -37,4 +37,14 @@ public class ModToolTiers {
             TierSortingRegistry.registerTier(new ForgeTier(3, 1631, 9, 3, 10,
                     ModTags.BlockTag.NEEDS_OBSIDIAN_TOOL, () -> Ingredient.of(Items.OBSIDIAN)),
                     new ResourceLocation(Bats.MOD_ID, "obsidian"), List.of(Tiers.DIAMOND), List.of());
+
+    public static final Tier COPPER =
+            TierSortingRegistry.registerTier(new ForgeTier(1, 230, 4.1f, 1.25f, 15,
+                            ModTags.BlockTag.NEEDS_COPPER_TOOL, () -> Ingredient.of(Items.COPPER_INGOT)),
+                    new ResourceLocation(Bats.MOD_ID, "copper"), List.of(Tiers.STONE), List.of());
+
+    public static final Tier AIR =
+            TierSortingRegistry.registerTier(new ForgeTier(1, 1567, 2.4f, 1.25f, 10,
+                            ModTags.BlockTag.NEEDS_AIR_TOOL, () -> Ingredient.of(Items.AIR)),
+                    new ResourceLocation(Bats.MOD_ID, "air"), List.of(), List.of());
 }

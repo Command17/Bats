@@ -2,6 +2,7 @@
   "values": [
     "bats:wooden_bat",
     "bats:stone_bat",
+    "bats:copper_bat",
     "bats:iron_bat",
     "bats:gold_bat",
     "bats:diamond_bat",
@@ -12,6 +13,7 @@
     "bats:soft_bat",
     "bats:glowstone_bat",
     "bats:magma_bat",
-    "bats:launching_bat"
+    "bats:launching_bat",
+    "bats:cloud_bat"
   ]
 }

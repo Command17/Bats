@@ -20,6 +20,7 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
         handheldItem(ModItems.WOODEN_BAT);
         handheldItem(ModItems.STONE_BAT);
+        handheldItem(ModItems.COPPER_BAT);
         handheldItem(ModItems.IRON_BAT);
         handheldItem(ModItems.GOLD_BAT);
         handheldItem(ModItems.DIAMOND_BAT);
@@ -31,6 +32,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         handheldItem(ModItems.GLOWSTONE_BAT);
         handheldItem(ModItems.MAGMA_BAT);
         handheldItem(ModItems.LAUNCHING_BAT);
+        handheldItem(ModItems.CLOUD_BAT);
     }
 
     private ItemModelBuilder handheldItem(RegistryObject<Item> item) {
