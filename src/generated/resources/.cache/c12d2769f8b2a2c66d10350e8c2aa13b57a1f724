@@ -1,4 +1,6 @@
-// 1.20.1	2023-10-30T15:37:32.2819928	Item Models: bats
+// 1.20.1	2024-02-04T14:23:17.2387226	Item Models: bats
+2cf92a6ac70d9f3acbfd61c1c42b19459e93d5fd assets/bats/models/item/cloud_bat.json
+e844276df0f779788ac4de38770ce4c61b4fb640 assets/bats/models/item/copper_bat.json
 7ea504dd8b1cd9020cd08a53d87a468e21982128 assets/bats/models/item/diamond_bat.json
 2eb97600d7709e83d62273a69177d9b7a0bff23f assets/bats/models/item/glowstone_bat.json
 bb3f12a3f5ed6a5dd1e5018aa63e37ab6847135b assets/bats/models/item/gold_bat.json

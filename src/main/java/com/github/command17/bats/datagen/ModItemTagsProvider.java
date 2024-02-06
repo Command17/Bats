@@ -28,6 +28,7 @@ public class ModItemTagsProvider extends ItemTagsProvider {
         this.tag(ModTags.ItemTag.BAT)
                 .add(ModItems.WOODEN_BAT.get())
                 .add(ModItems.STONE_BAT.get())
+                .add(ModItems.COPPER_BAT.get())
                 .add(ModItems.IRON_BAT.get())
                 .add(ModItems.GOLD_BAT.get())
                 .add(ModItems.DIAMOND_BAT.get())
@@ -38,6 +39,7 @@ public class ModItemTagsProvider extends ItemTagsProvider {
                 .add(ModItems.SOFT_BAT.get())
                 .add(ModItems.GLOWSTONE_BAT.get())
                 .add(ModItems.MAGMA_BAT.get())
-                .add(ModItems.LAUNCHING_BAT.get());
+                .add(ModItems.LAUNCHING_BAT.get())
+                .add(ModItems.CLOUD_BAT.get());
     }
 }

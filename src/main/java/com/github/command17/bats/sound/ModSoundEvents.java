@@ -12,9 +12,9 @@ public class ModSoundEvents {
     private static final DeferredRegister<SoundEvent> SOUND_REGISTRY =
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, Bats.MOD_ID);
 
-    public static RegistryObject<SoundEvent> WOODEN_BAT_HIT = registerSoundEvents("wooden_bat_hit");
-    public static RegistryObject<SoundEvent> STONE_BAT_HIT = registerSoundEvents("stone_bat_hit");
-    public static RegistryObject<SoundEvent> METAL_BAT_HIT = registerSoundEvents("metal_bat_hit");
+    public static final RegistryObject<SoundEvent> WOODEN_BAT_HIT = registerSoundEvents("wooden_bat_hit");
+    public static final RegistryObject<SoundEvent> STONE_BAT_HIT = registerSoundEvents("stone_bat_hit");
+    public static final RegistryObject<SoundEvent> METAL_BAT_HIT = registerSoundEvents("metal_bat_hit");
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_REGISTRY.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(Bats.MOD_ID, name)));

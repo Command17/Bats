@@ -12,7 +12,7 @@
 
 The bats work like a sword but have way more knockback than a sword.
 
-**Five** of the total **13** bats also have special abilities which you can
+**Seven** of the total **15** bats also have special abilities which you can
 find on the [wiki](https://github.com/Command17/Bats/wiki).
 
 ## Where can I find more information about the bats?

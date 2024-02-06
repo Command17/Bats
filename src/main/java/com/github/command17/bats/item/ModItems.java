@@ -3,6 +3,7 @@ package com.github.command17.bats.item;
 import com.github.command17.bats.Bats;
 import com.github.command17.bats.sound.ModSoundEvents;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.Tiers;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -20,6 +21,10 @@ public class ModItems {
     public static final RegistryObject<Item> STONE_BAT = ITEM_REGISTRY.register("stone_bat",
             () -> new BatItem(Tiers.STONE, 2, -2f, 1.5f,
                     ModSoundEvents.STONE_BAT_HIT.get(), new Item.Properties().durability(125)));
+
+    public static final RegistryObject<Item> COPPER_BAT = ITEM_REGISTRY.register("copper_bat",
+            () -> new CopperBatItem(ModToolTiers.COPPER, 2, -2f, 1.75f,
+                    ModSoundEvents.METAL_BAT_HIT.get(), new Item.Properties().durability(234)));
 
     public static final RegistryObject<Item> IRON_BAT = ITEM_REGISTRY.register("iron_bat",
             () -> new BatItem(Tiers.IRON, 2, -2f, 2f,
@@ -64,6 +69,10 @@ public class ModItems {
     public static final RegistryObject<Item> LAUNCHING_BAT = ITEM_REGISTRY.register("launching_bat",
             () -> new BurnableBatItem(Tiers.WOOD, 0, -2f, 2.75f, 180,
                     ModSoundEvents.WOODEN_BAT_HIT.get(), new Item.Properties().durability(162)));
+
+    public static final RegistryObject<Item> CLOUD_BAT = ITEM_REGISTRY.register("cloud_bat",
+            () -> new CloudBatItem(Tiers.WOOD, 0, -2f, 6f, 180,
+                    ModSoundEvents.WOODEN_BAT_HIT.get(), new Item.Properties().rarity(Rarity.RARE).durability(1570)));
 
     public static void register(IEventBus eventBus) {
         ITEM_REGISTRY.register(eventBus);

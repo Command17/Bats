@@ -1,19 +1,23 @@
 {
-  "item.bats.wooden_bat": "Holz Baseballschläger",
-  "item.bats.stone_bat": "Stein Baseballschläger",
-  "item.bats.iron_bat": "Eisen Baseballschläger",
-  "item.bats.gold_bat": "Gold Baseballschläger",
-  "item.bats.diamond_bat": "Diamant Baseballschläger",
-  "item.bats.netherite_bat": "Netherit Baseballschläger",
-  "item.bats.obsidian_bat": "Obsidian Baseballschläger",
-  "item.bats.tnt_bat": "TNT Baseballschläger",
-  "item.bats.snow_bat": "Schnee Baseballschläger",
-  "item.bats.soft_bat": "Weicher Baseballschläger",
-  "item.bats.glowstone_bat": "Leuchtstein Baseballschläger",
-  "item.bats.magma_bat": "Magma Baseballschläger",
-  "item.bats.launching_bat": "Schießender Baseballschläger",
+  "item.bats.wooden_bat": "Holz-Baseballschläger",
+  "item.bats.stone_bat": "Stein-Baseballschläger",
+  "item.bats.copper_bat": "Kupfer-Baseballschläger",
+  "item.bats.iron_bat": "Eisen-Baseballschläger",
+  "item.bats.gold_bat": "Gold-Baseballschläger",
+  "item.bats.diamond_bat": "Diamant-Baseballschläger",
+  "item.bats.netherite_bat": "Netherit-Baseballschläger",
+  "item.bats.obsidian_bat": "Obsidian-Baseballschläger",
+  "item.bats.tnt_bat": "TNT-Baseballschläger",
+  "item.bats.snow_bat": "Schnee-Baseballschläger",
+  "item.bats.soft_bat": "Weicher-Baseballschläger",
+  "item.bats.glowstone_bat": "Leuchtstein-Baseballschläger",
+  "item.bats.magma_bat": "Magma-Baseballschläger",
+  "item.bats.launching_bat": "Schießender-Baseballschläger",
+  "item.bats.cloud_bat": "Wolken-Baseballschläger",
 
   "itemGroup.bats.bats": "Baseballschläger",
 
-  "sounds.bats.bat_hit": "Baseballschläger trifft"
+  "sounds.bats.bat_hit": "Baseballschläger trifft",
+
+  "tooltip.bats.copper_bat_charge": "Aufladung: "
 }
