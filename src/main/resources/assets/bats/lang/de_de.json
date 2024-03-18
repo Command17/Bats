@@ -19,5 +19,7 @@
 
   "sounds.bats.bat_hit": "Baseballschläger trifft",
 
-  "tooltip.bats.copper_bat_charge": "Aufladung: "
+  "tooltip.bats.copper_bat_charge": "Aufladung: ",
+
+  "enchantment.bats.knock_up": "Hochwurf"
 }

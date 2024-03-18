@@ -1,5 +1,6 @@
 package com.github.command17.bats;
 
+import com.github.command17.bats.enchantment.ModEnchantments;
 import com.github.command17.bats.item.ModItems;
 import com.github.command17.bats.item.tab.ModCreativeModeTabs;
 import com.github.command17.bats.loot.ModLootModifiers;
@@ -28,6 +29,7 @@ public class Bats {
         eventBus.addListener(this::commonSetup);
 
         ModItems.register(eventBus);
+        ModEnchantments.register(eventBus);
         ModSoundEvents.register(eventBus);
         ModCreativeModeTabs.register(eventBus);
         ModLootModifiers.register(eventBus);
