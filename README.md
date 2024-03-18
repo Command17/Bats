@@ -1,19 +1,25 @@
 # (Baseball) Bats!
 
 [![curseforge](https://img.shields.io/badge/available_on_curseforge-black?style=flat-sqaure&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/baseball-bats)
+[![modrinth](https://img.shields.io/badge/available_on_modrinth-black?style=flat-sqaure&logo=modrinth)](https://www.curseforge.com/minecraft/mc-mods/baseball-bats)
 
 - Ever wanted to push your friend of a cliff without them escaping?
 - Ever wanted to just get the creeper away from your house?
 - ~~Ever wanted to just launch the cow in front of you to space?~~
 
-**Well now you can!**
+***Well now you can!***
+
+## What does this mod add?
+
+This mod adds:
+- **15** Bats (**7** of which have special abilities)
+- **1** Enchantment (for the bats and swords)
 
 ## How do they work and what do they do?
 
-The bats work like a sword but have way more knockback than a sword.
+Take a look at this gif! Maybe it helps:
 
-**Seven** of the total **15** bats also have special abilities which you can
-find on the [wiki](https://github.com/Command17/Bats/wiki).
+![bat_gif](assets/bat_gif.gif)
 
 ## Where can I find more information about the bats?
 
