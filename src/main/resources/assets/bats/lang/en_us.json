@@ -19,5 +19,7 @@
 
   "sounds.bats.bat_hit": "Bat Hit",
 
-  "tooltip.bats.copper_bat_charge": "Charge: "
+  "tooltip.bats.copper_bat_charge": "Charge: ",
+
+  "enchantment.bats.knock_up": "Knock Up"
 }
