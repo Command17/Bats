@@ -26,6 +26,7 @@ public class KnockUpEnchantment extends Enchantment {
     @Override
     public void doPostAttack(LivingEntity livingEntity, Entity enemy, int level) {
         enemy.addDeltaMovement(new Vec3(0, (level + 1) / 5d, 0));
+        enemy.hurtMarked = true;
     }
 
     @Override
